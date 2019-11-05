@@ -104,7 +104,7 @@ curl --location --request POST "http://localhost:8080/api/login" \
   --header "X-Requested-With: XMLHttpRequest" \
   --data "{
 	\"email\": \"admin@mail.com\",
-	\"password\": \"pass\"
+	\"password\": \"password\"
 }"
 ```
 
